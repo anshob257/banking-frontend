@@ -182,13 +182,3 @@ Give it a star ⭐
 
 ```
 
----
-
-# 🔥 This README Looks:
-
-- Professional
-- Structured
-- Interview-ready
-- Fintech serious
-
----
