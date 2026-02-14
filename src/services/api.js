@@ -1,8 +1,8 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "http://localhost:3000/api",
-  withCredentials: true,
+  baseURL: "https://banking-backend-cvma.onrender.com/api",
+  withCredentials: true
 });
 
 export default api;
